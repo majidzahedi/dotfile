@@ -18,15 +18,15 @@ window:
   # Specified in number of columns/lines, not pixels.
   # If both are `0`, this setting is ignored.
   dimensions:
-   columns: 120
-   lines: 37
+    columns: 186
+    lines: 45
   # Window position (changes require restart)
   #
   # Specified in number of pixels.
   # If the position is not set, the window manager will handle the placement.
   position:
-    x: 420
-    y: 150
+    x: 130
+    y: 47
   # Window padding (changes require restart)
   #
   # Blank space added around the window in pixels. This padding is scaled
@@ -500,4 +500,4 @@ import:
   - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
 #  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
 #  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
- # - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
+# - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
