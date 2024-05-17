@@ -1,0 +1,36 @@
+# import = ["/home/majid/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+import = ["/home/majid/.config/alacritty/themes/themes/tokyo-night.toml"]
+
+[env]
+TERM = "alacritty-direct"
+
+[font]
+size = 12
+
+[font.bold]
+family = "ComicShannsMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "Comicshannsmono nerd font"
+style = "Bold Italic"
+
+[font.italic]
+family = "Comicshannsmono nerd font"
+style = "Italic"
+
+[font.normal]
+family = "ComicShannsMono Nerd Font"
+style = "Regular"
+
+[scrolling]
+history = 5000
+
+[window]
+title = "Alacritty"
+decorations= "None"
+
+# [window.class]
+# general = "Alacritty"
+# instance = "Alacritty"
+
